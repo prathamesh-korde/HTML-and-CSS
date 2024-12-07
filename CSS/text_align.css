@@ -1,0 +1,53 @@
+/* text-align (used to set aligment of text)*/
+/*text-align:left;
+*text-align:right;
+*text-align:center;
+*text-align:start;
+*text-align:end;
+*/
+p{
+    text-align:end;
+}
+h1{
+    text-align: center;
+}
+/*-- TEXT DECOURATION (used to docurate text)
+*text-decoration:line-through;
+*text-decoration:underline;
+*text-decoration:overline;
+text-decoration:none;
+
+     */
+     h1{
+        text-decoration:blue wavy underline ;
+     }
+     a{
+        text-decoration: none;
+        /*used to remove underline from link*/
+     }
+     #h2{
+        font-weight:lighter /*100*/;
+     }
+     #h3{
+        font-weight:normal/*250*/;
+     }
+     #h4{
+        font-weight: bold/*400*/;
+     }
+     #h5{
+        font-weight: bolder/*900*/;
+     }
+    #one{
+        font-family: 'Times New Roman', Times, serif;
+    }
+    #two{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #one{
+        font-size: 10px;
+    }
+    #one{
+        line-height:30px;
+        text-transform:capitalize ;/*uppercase/lowercase/capitalize/non*/
+    }
+    

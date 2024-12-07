@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+#login{
+    color: orange;
+    font-size: 25px;
+
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+}
+.content_box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+   display: inline-block;
+}
+footer{
+    background-color:#0f1111 ;
+    color: white;
+    text-align: center;
+}
+#content{
+    height: 720px;
+}

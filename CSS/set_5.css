@@ -1,0 +1,14 @@
+div{
+    top: 50px;
+    color: aliceblue;
+
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    background-image: url("cat.jpg");
+    background-size: cover;
+    right: 0;
+    position:fixed;
+
+}

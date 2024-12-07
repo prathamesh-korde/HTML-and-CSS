@@ -1,0 +1,19 @@
+/*universal selector*/
+*{
+    color:blue;
+}
+/*element selector*/
+button{
+    color: red;
+}
+/* Id selector*/
+#headingone {
+    color:yellow ;
+}
+#headingtwo{
+    color: chocolate;
+}
+/*class selector*/
+.myclass{
+    color: brown;
+}

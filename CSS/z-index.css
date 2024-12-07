@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("cat.jpg");
+    background-size: cover;
+    /*background-size: auto;*/
+}
+#box1{
+    position: relative;
+    left: 20px;
+   z-index: 2;
+   background-image: url("cat.jpg");
+    background-size: contain;
+   background-repeat: no-repeat;
+
+}

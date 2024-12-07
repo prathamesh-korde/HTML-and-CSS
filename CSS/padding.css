@@ -1,0 +1,29 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    background-color: peru;
+    /*padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;*/
+    padding: 20px;
+    margin: 1px 2px 3px 4px;
+    /*top|right|bottom|left->clockwise*/
+
+}
+#two{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    background-color: peru;
+    padding: 1px 2px 3px 4px;
+    /*top|right|bottom|left->clockwise*/
+   /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;*/
+    margin: 20px;
+
+    
+}
